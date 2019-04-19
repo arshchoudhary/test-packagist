@@ -2,6 +2,7 @@
     "name": "arshchoudhary/test",
     "description": "Test packagist",
     "type": "library",
+	"license": "mit",
     "authors": [
         {
             "name": "Arsh Choudhary",
