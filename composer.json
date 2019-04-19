@@ -9,11 +9,11 @@
             "email": "arshchoudhary4@gmail.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {
 		"php": ">=5.5.0",
 
 	},
-	"minimum-stability" : "dev",
 	"autoload": {
 		"psr-4": {
             "Wepro\\": "src/"
